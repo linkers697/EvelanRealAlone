@@ -34,7 +34,7 @@ ADS_MODE = getenv("ADS_MODE", None)
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 8293633911))
+OWNER_ID = int(getenv("OWNER_ID", 7749780042))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -48,15 +48,15 @@ API_KEY = getenv("API_KEY", '30DxNexGenBots8ea03d')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/linkers697/Divyaalone",
+    "https://github.com/linkers697/Rexalone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Asianbots")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AsianOfficial")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/feelingDirtYy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SexiestGroup")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
