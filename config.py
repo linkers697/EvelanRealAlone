@@ -48,7 +48,7 @@ API_KEY = getenv("API_KEY", '30DxNexGenBotsc65acc')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/linkers697/Rexalone",
+    "https://github.com/linkers697/RexRealAlone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
