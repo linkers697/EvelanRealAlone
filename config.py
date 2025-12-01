@@ -34,7 +34,7 @@ ADS_MODE = getenv("ADS_MODE", None)
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7749780042))
+OWNER_ID = int(getenv("OWNER_ID", 8461941523))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -48,15 +48,15 @@ API_KEY = getenv("API_KEY", '30DxNexGenBotsc65acc')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/linkers697/RexRealAlone",
+    "https://github.com/linkers697/EvelanRealAlone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/feelingDirtYy")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SexiestGroup")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EvelanMusiCUpdates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+2sdSIUkDUZcwOTJl")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
@@ -95,33 +95,33 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/iz8rx5.jpg",
+    "https://files.catbox.moe/iqalln.jpg",
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/iz8rx5.jpg",
+    "https://files.catbox.moe/iqalln.jpg",
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/iz8rx5.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/iz8rx5.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/iqalln.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/iqalln.jpg"
 TELEGRAM_AUDIO_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
 TELEGRAM_VIDEO_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
-STREAM_IMG_URL = "https://files.catbox.moe/iz8rx5.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/iqalln.jpg"
 SOUNCLOUD_IMG_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
-YOUTUBE_IMG_URL = "https://files.catbox.moe/iz8rx5.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/iqalln.jpg"
 SPOTIFY_ARTIST_IMG_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
 SPOTIFY_ALBUM_IMG_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
 SPOTIFY_PLAYLIST_IMG_URL = (
-    "https://files.catbox.moe/iz8rx5.jpg"
+    "https://files.catbox.moe/iqalln.jpg"
 )
 
 
